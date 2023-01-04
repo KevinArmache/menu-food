@@ -12,16 +12,15 @@ function Food() {
           //   console.log(element);
           // }
           return (
-            <div className="container-category">
+            <div key={element.id} className="container-category">
               <h3 id={`category-title-` + element.category}>
                 {element.category}
               </h3>
               <hr />
               <div className="box-food">
                 {element.plats.map((element) => {
-                  console.log(element);
                   return (
-                    <div className="food">
+                    <div key={element.id} className="food">
                       <img src={photo} alt="Burger" />
                       <div className="container-description">
                         <span className="name-food">{element.name}</span>
