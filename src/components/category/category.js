@@ -9,7 +9,7 @@ function category() {
           {data.map((element) => {
             return (
               <li key={element.id}>
-                <a href=" ">{element.name}</a>
+                <a href={`#category-title-` + element.name}>{element.name}</a>
               </li>
             );
           })}

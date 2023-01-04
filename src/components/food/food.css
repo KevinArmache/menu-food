@@ -2,12 +2,16 @@
   /* border: solid 2px blue; */
   margin: 50px;
 }
-.category-title {
+#category-title-Salade {
   font-family: LucyTheCat;
   font-size: 100px;
   font-weight: 100;
+  margin-left: 25px;
 }
-.category-title {
+#category-title-Burger {
+  font-family: LucyTheCat;
+  font-size: 100px;
+  font-weight: 100;
   margin-left: 25px;
 }
 .box-food {
@@ -17,7 +21,6 @@
   flex-wrap: wrap;
 }
 .food {
-  border: solid 2px red;
   margin: 10px;
   width: 15%;
 }
@@ -33,12 +36,11 @@
   border: solid 5px #1d1d1d;
 }
 .name-food {
-  font-size: 25px;
+  font-size: 30px;
   font-weight: 100;
 }
 .line-food {
   margin-bottom: 10px;
 }
 .price-food {
-  border: solid 2px red;
 }

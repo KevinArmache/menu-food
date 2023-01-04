@@ -13,7 +13,9 @@ function Food() {
           // }
           return (
             <div className="container-category">
-              <h3 className="category-title">{element.category}</h3>
+              <h3 id={`category-title-` + element.category}>
+                {element.category}
+              </h3>
               <hr />
               <div className="box-food">
                 {element.plats.map((element) => {
