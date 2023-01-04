@@ -1,7 +1,6 @@
 .container-category > ul {
   display: flex;
   list-style-type: none;
-  border: solid 2px red;
   font-size: 30px;
   justify-content: space-evenly;
   background-color: #1d1d1d;
@@ -12,7 +11,8 @@
 .container-category > ul > li > a {
   text-decoration: none;
   font-family: LucyTheCat;
-  border: solid 2px yellow;
-  font-size: 25px;
+  border-bottom: solid 5px white;
+  font-size: 30px;
+  padding: 10px;
   color: white;
 }

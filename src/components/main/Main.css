@@ -4,10 +4,9 @@
   box-sizing: border-box;
 }
 .container-main {
-  border: solid 2px red;
   background-color: #1d1d1d;
   display: flex;
-  height: 40vh;
+  height: 35vh;
 }
 .main-title {
   display: flex;
@@ -19,7 +18,6 @@
   color: white;
   font-family: LucyTheCat;
   font-size: 100px;
-  border: solid 2px red;
   text-align: center;
 }
 .main-title > span:nth-child(2) {

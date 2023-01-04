@@ -1,6 +1,7 @@
 import { Component } from "react";
 import "./App.css";
 import Main from "./components/main/Main";
+import Food from "./components/food/food";
 
 class App extends Component {
   state = {
@@ -11,6 +12,7 @@ class App extends Component {
     return (
       <div className="App">
         <Main />
+        <Food />
       </div>
     );
   }

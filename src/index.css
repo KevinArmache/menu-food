@@ -5,3 +5,6 @@
     url("https://yoursite.com/css/fonts/CustomFont.otf") format("opentype"),
     url("https://yoursite.com/css/fonts/CustomFont.svg#filename") format("svg"); */
 }
+* {
+  font-family: LucyTheCat;
+}

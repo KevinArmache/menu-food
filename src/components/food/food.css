@@ -1,0 +1,44 @@
+.container-foods {
+  /* border: solid 2px blue; */
+  margin: 50px;
+}
+.category-title {
+  font-family: LucyTheCat;
+  font-size: 100px;
+  font-weight: 100;
+}
+.category-title {
+  margin-left: 25px;
+}
+.box-food {
+  margin: 25px;
+  display: flex;
+  justify-content: space-evenly;
+  flex-wrap: wrap;
+}
+.food {
+  border: solid 2px red;
+  margin: 10px;
+  width: 15%;
+}
+.food > img {
+  width: 100%;
+  border-radius: 20px;
+  border: solid 5px #1d1d1d;
+}
+.container-description {
+  padding: 25px;
+
+  border-radius: 20px;
+  border: solid 5px #1d1d1d;
+}
+.name-food {
+  font-size: 25px;
+  font-weight: 100;
+}
+.line-food {
+  margin-bottom: 10px;
+}
+.price-food {
+  border: solid 2px red;
+}

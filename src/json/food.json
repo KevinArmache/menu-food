@@ -1,0 +1,43 @@
+[
+  {
+    "id": "1",
+    "category": "Burger",
+    "plats": [
+      {
+        "id": "1",
+        "name": "Burger 1",
+        "price": "20.00$",
+        "src": "../../src/assets/téléchargement.jpeg",
+        "description": "Salade + Frite + Steak + Tomates + fromages"
+      },
+      {
+        "id": "2",
+        "name": "Burger 2",
+        "price": "23.00$",
+        "src": "../../src/assets/téléchargement.jpeg",
+        "description": "Salade + Frite + Steak + Tomates + fromages"
+      }
+    ]
+  },
+
+  {
+    "id": "2",
+    "category": "Salade",
+    "plats": [
+      {
+        "id": "1",
+        "name": "Salade 1",
+        "price": "20.00$",
+        "src": "../../src/assets/téléchargement.jpeg",
+        "description": "Salade + Frite + Steak + Tomates + fromages"
+      },
+      {
+        "id": "2",
+        "name": "Salade 2",
+        "price": "23.00$",
+        "src": "../../src/assets/téléchargement.jpeg",
+        "description": "Salade + Frite + Steak + Tomates + fromages"
+      }
+    ]
+  }
+]
