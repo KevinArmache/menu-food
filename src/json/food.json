@@ -81,7 +81,7 @@
       },
       {
         "id": "2",
-        "name": "côte de porc à la moutarde",
+        "name": "Côte de porc à la moutarde",
         "price": "15#",
         "src": "../../src/assets/téléchargement.jpeg",
         "description": "côte de porc cuite au fourplein des saveurs, huile d'olive, moutarde thym, poivre noir concassé"
@@ -92,6 +92,20 @@
         "price": "25#",
         "src": "../../src/assets/téléchargement.jpeg",
         "description": "Assortiment des differentes viande rien que pour vous amateur culinaire laissez vous surprendre par notre chef cuisinier"
+      },
+      {
+        "id": "4",
+        "name": "Brochette du chef",
+        "price": "15#",
+        "src": "../../src/assets/téléchargement.jpeg",
+        "description": "Viande de boeuf (filet pur), poivron de couleur, tomate fraiche, lard fumé, oignon, poivre noir"
+      },
+      {
+        "id": "5",
+        "name": "Viande 5 pièces",
+        "price": "15#",
+        "src": "../../src/assets/téléchargement.jpeg",
+        "description": "Viande de boeuf, thym, herbes de provences, paprika, moutarde de dijon, huile d'olive"
       }
     ]
   },
@@ -141,17 +155,45 @@
     "plats": [
       {
         "id": "1",
-        "name": "Salade 1",
-        "price": "20.00$",
+        "name": "Avocat au thon",
+        "price": "5#",
         "src": "../../src/assets/téléchargement.jpeg",
-        "description": "Salade + Frite + Steak + Tomates + fromages"
+        "description": "Emblematique morceau des thons, hyper savoureuse composé de mayonnaise, oignon, cornichons, persil, sel, poivre"
       },
       {
         "id": "2",
-        "name": "Salade 2",
-        "price": "23.00$",
+        "name": "Oeuf à la macédoine au légumes",
+        "price": "5#",
         "src": "../../src/assets/téléchargement.jpeg",
-        "description": "Salade + Frite + Steak + Tomates + fromages"
+        "description": "Macedoine des légumes aux oeuf dur, avec la myonnaise, oignons, persil, sel, poivre"
+      },
+      {
+        "id": "3",
+        "name": "Tomate farcie au crevettes",
+        "price": "13#",
+        "src": "../../src/assets/téléchargement.jpeg",
+        "description": "Des crevettes decortiquer facon farcie aux tomates simple mais gouteuses à la sauce cocktail"
+      },
+      {
+        "id": "4",
+        "name": "Salade césar",
+        "price": "15#",
+        "src": "../../src/assets/téléchargement.jpeg",
+        "description": "On a beau en savoir mangé a mainte reprises, mais des salades cesar vous laisse enchanter lors du repas entre amis ou en famille composée des parmesan rapé, moutarde, citron, ail , huile, poivre, sel , oeuf."
+      },
+      {
+        "id": "5",
+        "name": "Mpose grillé au beurre",
+        "price": "15#",
+        "src": "../../src/assets/téléchargement.jpeg",
+        "description": "On se regal avec nos samptieux larve comestible (mpose) aromatiser croustillant"
+      },
+      {
+        "id": "6",
+        "name": "Grillons aux echalot",
+        "price": "10#",
+        "src": "../../src/assets/téléchargement.jpeg",
+        "description": "Des grillons (makelele) grillé au pili, à deguster très délicieux"
       }
     ]
   }
