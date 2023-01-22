@@ -1,6 +1,5 @@
 import React from "react";
 import "./food.css";
-import photo from "../../assets/téléchargement.jpeg";
 import data from "../../json/food.json";
 
 function Food() {
@@ -21,7 +20,10 @@ function Food() {
                 {element.plats.map((element) => {
                   return (
                     <div key={element.id} className="food">
-                      <img src={photo} alt="Burger" />
+                      <img
+                        src={require(`../../assets/${element.src}`)}
+                        alt="Burger"
+                      />
                       <div className="container-description">
                         <span className="name-food">{element.name}</span>
                         <hr className="line-food" />
