@@ -21,6 +21,7 @@ function Food() {
                   return (
                     <div key={element.id} className="food">
                       <img
+                        className="src-food"
                         src={require(`../../assets/${element.src}`)}
                         alt="Burger"
                       />

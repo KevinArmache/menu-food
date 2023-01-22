@@ -64,8 +64,10 @@
 } */
 .food > img {
   width: 100%;
+  height: 50vh;
   border-radius: 20px;
   border: solid 5px #1d1d1d;
+  object-fit: cover;
 }
 .container-description {
   padding: 25px;
