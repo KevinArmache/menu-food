@@ -1,28 +1,143 @@
 [
   {
     "id": "1",
-    "category": "Burger",
+    "category": "Plat-Congolais",
     "plats": [
       {
         "id": "1",
-        "name": "Burger 1",
-        "price": "20.00$",
+        "name": "Chèvre à la sauce tomate & basilic",
+        "price": "15#",
         "src": "../../src/assets/téléchargement.jpeg",
-        "description": "Salade + Frite + Steak + Tomates + fromages"
+        "description": "Chèvre en morceaux, oignons, ail, tomate fraîche, basilic, oil , bouillon de viande, gingembre"
       },
       {
         "id": "2",
-        "name": "Burger 2",
-        "price": "23.00$",
+        "name": "Chèvre à la congolaise",
+        "price": "15#",
         "src": "../../src/assets/téléchargement.jpeg",
-        "description": "Salade + Frite + Steak + Tomates + fromages"
+        "description": "Chèvre en morceaux, oignons, poivre vert, vinaigre blanc, bouillon de chèvre, oil , melange des épices (peya isoude, poivre noir)"
+      },
+      {
+        "id": "3",
+        "name": "Porc à la congolaise",
+        "price": "15#",
+        "src": "../../src/assets/téléchargement.jpeg",
+        "description": "Morceau de porc, oignons, ail, poivron vert, moutarde, sel melange des épices, bouillon de viande"
+      },
+      {
+        "id": "4",
+        "name": "Liboke poisson frais",
+        "price": "10#",
+        "src": "../../src/assets/téléchargement.jpeg",
+        "description": "Degustez nos bouillons des poissons en paquet (liboke) cuit dans des feuilles de bananier en forme de papillon un vrai regal"
+      },
+      {
+        "id": "5",
+        "name": "Liboke ngulu",
+        "price": "10#",
+        "src": "../../src/assets/téléchargement.jpeg",
+        "description": "Bouillons des porc en paquet (liboke) cuit dans des feuilles de bananier en forme de papillon un vrai regal"
       }
     ]
   },
 
   {
     "id": "2",
-    "category": "Salade",
+    "category": "Volailles",
+    "plats": [
+      {
+        "id": "1",
+        "name": "Poulet entier grillé à la braise",
+        "price": "20#",
+        "src": "../../src/assets/téléchargement.jpeg",
+        "description": "Grillé au makala, poulet entier, citron, celeri, paprika, herbe de provence, huile d'olive, poivre, pili"
+      },
+      {
+        "id": "2",
+        "name": "1/2 Poulet entier grillé au beurre",
+        "price": "10#",
+        "src": "../../src/assets/téléchargement.jpeg",
+        "description": "Grillé au makala, poulet entier, citron, celeri, paprika, herbe de provence, huile d'olive, poivre, pili"
+      },
+      {
+        "id": "3",
+        "name": "Pigeon grillé au beurre",
+        "price": "20#",
+        "src": "../../src/assets/téléchargement.jpeg",
+        "description": "2 pigeons servis, plein des saveurs, plein d'arromes, qui vas vous enchanter"
+      }
+    ]
+  },
+  {
+    "id": "3",
+    "category": "Viandes",
+    "plats": [
+      {
+        "id": "1",
+        "name": "Steak de boeuf grillé",
+        "price": "15#",
+        "src": "../../src/assets/téléchargement.jpeg",
+        "description": "Saignant à point ou bien cuit déliceux morceau de boeuf avec une très bonne saveur d'arome."
+      },
+      {
+        "id": "2",
+        "name": "côte de porc à la moutarde",
+        "price": "15#",
+        "src": "../../src/assets/téléchargement.jpeg",
+        "description": "côte de porc cuite au fourplein des saveurs, huile d'olive, moutarde thym, poivre noir concassé"
+      },
+      {
+        "id": "3",
+        "name": "Assiette air bridge",
+        "price": "25#",
+        "src": "../../src/assets/téléchargement.jpeg",
+        "description": "Assortiment des differentes viande rien que pour vous amateur culinaire laissez vous surprendre par notre chef cuisinier"
+      }
+    ]
+  },
+  {
+    "id": "4",
+    "category": "Accompagnement",
+    "plats": [
+      {
+        "id": "1",
+        "name": "Tout nos accompagnements ",
+        "price": "5#",
+        "src": "../../src/assets/téléchargement.jpeg",
+        "description": "pondu, haricots, légume vert, riz, fufu (semoule), chikwange, makemba, frites, pomme de terres naturel, pomme de terre Sautée "
+      }
+    ]
+  },
+  {
+    "id": "5",
+    "category": "Fruit-de-mer",
+    "plats": [
+      {
+        "id": "1",
+        "name": "Poisson pané",
+        "price": "15#",
+        "src": "../../src/assets/téléchargement.jpeg",
+        "description": "Des délicieux batonnets de poisson pané à deguster du bout des doigts avec du chapelure , ail, farine, poivre, a huile a frite"
+      },
+      {
+        "id": "2",
+        "name": "Poisson chat braisé",
+        "price": "20#",
+        "src": "../../src/assets/téléchargement.jpeg",
+        "description": "Fameux ngolo moseka, braisé aux aromes sublime qui s'imprègne des saveurs a base d'huile vegetal, herbe provence, paprika, ail, celeri, citron"
+      },
+      {
+        "id": "3",
+        "name": "Cossa à l'aile pili",
+        "price": "20#",
+        "src": "../../src/assets/téléchargement.jpeg",
+        "description": "Plateau des cossa décortiqué, servis avec la sauce barbecue à l'ail et sautés à l'ail et pili-pili"
+      }
+    ]
+  },
+  {
+    "id": "6",
+    "category": "Entrés",
     "plats": [
       {
         "id": "1",

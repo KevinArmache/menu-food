@@ -2,18 +2,50 @@
   /* border: solid 2px blue; */
   margin: 50px;
 }
-#category-title-Salade {
+#category-title-Plat-Congolais {
   font-family: LucyTheCat;
-  font-size: 100px;
+  font-size: 70px;
+  padding: 20px;
   font-weight: 100;
   margin-left: 25px;
 }
-#category-title-Burger {
+
+#category-title-Volailles {
   font-family: LucyTheCat;
-  font-size: 100px;
+  font-size: 70px;
+  padding: 20px;
   font-weight: 100;
   margin-left: 25px;
 }
+#category-title-Viandes {
+  font-family: LucyTheCat;
+  font-size: 70px;
+  padding: 20px;
+  font-weight: 100;
+  margin-left: 25px;
+}
+#category-title-Accompagnement {
+  font-family: LucyTheCat;
+  font-size: 70px;
+  padding: 20px;
+  font-weight: 100;
+  margin-left: 25px;
+}
+#category-title-Fruit-de-mer {
+  font-family: LucyTheCat;
+  font-size: 70px;
+  padding: 20px;
+  font-weight: 100;
+  margin-left: 25px;
+}
+#category-title-Entrés {
+  font-family: LucyTheCat;
+  font-size: 70px;
+  padding: 20px;
+  font-weight: 100;
+  margin-left: 25px;
+}
+
 .box-food {
   margin: 25px;
   display: flex;
@@ -24,6 +56,12 @@
   margin: 10px;
   width: 30%;
 }
+/* refaire la taille de food taille 1024px */
+/* @media screen and (max-width: 992px) {
+  body {
+    background-color: blue;
+  }
+} */
 .food > img {
   width: 100%;
   border-radius: 20px;

@@ -1,9 +1,8 @@
 @font-face {
   font-family: "LucyTheCat";
   src: url("./fonts/lucy-the-cat-font/LucyTheCatRegular-Bg9x.ttf");
-  /* src: url("https://yoursite.com/css/fonts/CustomFont.woff") format("woff"),
-    url("https://yoursite.com/css/fonts/CustomFont.otf") format("opentype"),
-    url("https://yoursite.com/css/fonts/CustomFont.svg#filename") format("svg"); */
+  src: url("./fonts/lucy-the-cat-font/LucythecatRegular-R7mA.otf")
+    format("opentype");
 }
 * {
   font-family: LucyTheCat;

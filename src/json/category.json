@@ -1,14 +1,26 @@
 [
   {
     "id": "1",
-    "name": "Burger"
+    "name": "Plat Congolais"
   },
   {
     "id": "2",
-    "name": "Salade"
+    "name": "Volailles"
   },
   {
     "id": "3",
-    "name": "Alcool"
+    "name": "Viandes"
+  },
+  {
+    "id": "4",
+    "name": "Accompagnement"
+  },
+  {
+    "id": "5",
+    "name": "Fruit de mer"
+  },
+  {
+    "id": "6",
+    "name": "Entrés"
   }
 ]
