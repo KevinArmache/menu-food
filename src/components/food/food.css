@@ -80,5 +80,8 @@
 .line-food {
   margin-bottom: 10px;
 }
-.price-food {
+
+.price-food,
+.description-food {
+  font-size: 20px;
 }

@@ -29,6 +29,8 @@ function Food() {
                           Prix: {element.price}
                         </span>
                         <br />
+                        <hr className="line-food" />
+
                         <span className="description-food">
                           {element.description}
                           {/* Salade + Frite + Steak + Tomates + fromages */}

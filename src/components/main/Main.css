@@ -20,6 +20,9 @@
   font-size: 100px;
   text-align: center;
   padding: 15px;
+  background: -webkit-linear-gradient(#eee, #333);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
 }
 .main-title > span:nth-child(2) {
   margin-top: 30px;
