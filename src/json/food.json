@@ -240,253 +240,253 @@
         "id": "6",
         "name": "Vitalo",
         "price": "5#",
-        "src": "image11.jpeg",
+        "src": "vitalo.jpeg",
         "description": ""
       },
       {
         "id": "7",
         "name": "Maltina",
         "price": "5#",
-        "src": "image11.jpeg",
+        "src": "Maltina.jpg",
         "description": ""
       },
       {
         "id": "8",
         "name": "Legend",
         "price": "7.5#",
-        "src": "image11.jpeg",
+        "src": "Legend.jpg",
         "description": ""
       },
       {
         "id": "9",
         "name": "Castel Beer",
         "price": "7.5#",
-        "src": "image11.jpeg",
+        "src": "castel.jpg",
         "description": ""
       },
       {
         "id": "9",
         "name": "Turbo King",
         "price": "7.5#",
-        "src": "image11.jpeg",
+        "src": "turbo.png",
         "description": ""
       },
       {
         "id": "10",
         "name": "Primus",
         "price": "7.5#",
-        "src": "image11.jpeg",
+        "src": "primus.png",
         "description": ""
       },
       {
         "id": "11",
         "name": "Skol",
         "price": "7.5#",
-        "src": "image11.jpeg",
+        "src": "skol.png",
         "description": ""
       },
       {
         "id": "12",
         "name": "Guinness",
         "price": "7.5#",
-        "src": "image11.jpeg",
+        "src": "guiness.jpg",
         "description": ""
       },
       {
         "id": "13",
         "name": "Nkoyi",
         "price": "7.5#",
-        "src": "image11.jpeg",
+        "src": "nkoyi.jpg",
         "description": ""
       },
       {
         "id": "14",
         "name": "Tembo",
         "price": "7.5#",
-        "src": "image11.jpeg",
+        "src": "tembo.png",
         "description": ""
       },
       {
         "id": "15",
         "name": "Beaufort",
         "price": "7.5#",
-        "src": "image11.jpeg",
+        "src": "beaufort.jpg",
         "description": ""
       },
       {
         "id": "16",
-        "name": "Mutzing",
+        "name": "Mutzig",
         "price": "7.5#",
-        "src": "image11.jpeg",
+        "src": "mutzig.jpg",
         "description": ""
       },
       {
         "id": "17",
         "name": "Leffe",
         "price": "7.5#",
-        "src": "image11.jpeg",
+        "src": "Leffe.webp",
         "description": ""
       },
       {
         "id": "18",
         "name": "Simba",
         "price": "7.5#",
-        "src": "image11.jpeg",
+        "src": "simba.png",
         "description": ""
       },
       {
         "id": "19",
         "name": "Ngok",
         "price": "7.5#",
-        "src": "image11.jpeg",
+        "src": "ngok.jpg",
         "description": ""
       },
       {
         "id": "20",
-        "name": "Balentines",
-        "price": "15#",
-        "src": "image11.jpeg",
+        "name": "Expresso Coffee",
+        "price": "5#",
+        "src": "expresso.png",
         "description": ""
       },
       {
         "id": "21",
         "name": "Seau de bière",
         "price": "5#",
-        "src": "image11.jpeg",
+        "src": "seau.webp",
         "description": ""
       },
       {
         "id": "22",
-        "name": "Heinken (Canette)",
+        "name": "Heineken (Canette)",
         "price": "7.5#",
-        "src": "image11.jpeg",
+        "src": "heinekencanette.jpg",
         "description": ""
       },
       {
         "id": "23",
         "name": "Bavaria",
         "price": "7.5#",
-        "src": "image11.jpeg",
+        "src": "bavaria.jpg",
         "description": ""
       },
       {
         "id": "24",
         "name": "Redbull",
         "price": "7.5#",
-        "src": "image11.jpeg",
+        "src": "redbull.png",
         "description": ""
       },
       {
         "id": "24",
         "name": "Ceres",
         "price": "10#",
-        "src": "image11.jpeg",
+        "src": "ceres.jpg",
         "description": ""
       },
       {
         "id": "25",
         "name": "Red Label",
         "price": "100#",
-        "src": "image11.jpeg",
-        "description": ""
+        "src": "redlabel.webp",
+        "description": "Mesure : 7#"
       },
       {
         "id": "26",
         "name": "J&B",
         "price": "100#",
-        "src": "image11.jpeg",
-        "description": ""
+        "src": "jb.webp",
+        "description": "Mesure : 7#"
       },
       {
         "id": "27",
         "name": "Sir Edward's",
         "price": "100#",
-        "src": "image11.jpeg",
-        "description": ""
+        "src": "se.png",
+        "description": "Mesure : 7#"
       },
       {
         "id": "28",
         "name": "Grant's",
         "price": "80#",
-        "src": "image11.jpeg",
-        "description": ""
+        "src": "grant.jpg",
+        "description": "Mesure : 5#"
       },
       {
         "id": "29",
         "name": "Jameson",
         "price": "100#",
-        "src": "image11.jpeg",
-        "description": ""
+        "src": "jameson.jpg",
+        "description": "Mesure : 7#"
       },
       {
         "id": "30",
-        "name": "Baletines",
+        "name": "Ballantine's",
         "price": "100#",
-        "src": "image11.jpeg",
-        "description": ""
+        "src": "Ballantines.webp",
+        "description": "Mesure : 7#"
       },
       {
         "id": "31",
         "name": "Jack Daniel's",
         "price": "110#",
-        "src": "image11.jpeg",
-        "description": ""
+        "src": "jack.webp",
+        "description": "Mesure : 8#"
       },
       {
         "id": "32",
         "name": "Black Label",
         "price": "130#",
-        "src": "image11.jpeg",
-        "description": ""
+        "src": "black.png",
+        "description": "Mesure : 10#"
       },
       {
         "id": "33",
         "name": "Double Black",
         "price": "140#",
-        "src": "image11.jpeg",
-        "description": ""
+        "src": "double.jpg",
+        "description": "Mesure : 12#"
       },
       {
         "id": "34",
         "name": "Gordon",
         "price": "90#",
-        "src": "image11.jpeg",
-        "description": ""
+        "src": "gordon.webp",
+        "description": "Mesure : 7#"
       },
       {
         "id": "35",
         "name": "Vodka Absolut",
         "price": "100#",
-        "src": "image11.jpeg",
-        "description": ""
+        "src": "abso.jpg",
+        "description": "Mesure : 7#"
       },
       {
         "id": "36",
         "name": "Baileys",
         "price": "90#",
-        "src": "image11.jpeg",
-        "description": ""
+        "src": "baileys.png",
+        "description": "Mesure : 6#"
       },
       {
         "id": "37",
         "name": "Amarula",
         "price": "100#",
-        "src": "image11.jpeg",
-        "description": ""
+        "src": "amarula.webp",
+        "description": "Mesure : 7#"
       },
       {
         "id": "38",
         "name": "Martini Rouge",
         "price": "100#",
-        "src": "image11.jpeg",
-        "description": ""
+        "src": "martini.jpg",
+        "description": "Mesure : 7#"
       },
       {
         "id": "39",
-        "name": "Expresso Coffee",
-        "price": "5#",
-        "src": "image11.jpeg",
-        "description": ""
+        "name": "Vat 69",
+        "price": "70#",
+        "src": "69.jpg",
+        "description": "Mesure : 7#"
       }
     ]
   }
