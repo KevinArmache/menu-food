@@ -196,5 +196,298 @@
         "description": "Des grillons (makelele) grillé au pili, à deguster très délicieux"
       }
     ]
+  },
+  {
+    "id": "7",
+    "category": "Boissons",
+    "plats": [
+      {
+        "id": "1",
+        "name": "Eau",
+        "price": "3#",
+        "src": "eau.jpg",
+        "description": ""
+      },
+      {
+        "id": "2",
+        "name": "Coca Cola",
+        "price": "5#",
+        "src": "cocacola.jpg",
+        "description": ""
+      },
+      {
+        "id": "3",
+        "name": "Fanta",
+        "price": "5#",
+        "src": "fanta.jpg",
+        "description": ""
+      },
+      {
+        "id": "4",
+        "name": "Tonic",
+        "price": "5#",
+        "src": "tonic.jpg",
+        "description": ""
+      },
+      {
+        "id": "5",
+        "name": "Soda",
+        "price": "5#",
+        "src": "soda.jpg",
+        "description": ""
+      },
+      {
+        "id": "6",
+        "name": "Vitalo",
+        "price": "5#",
+        "src": "image11.jpeg",
+        "description": ""
+      },
+      {
+        "id": "7",
+        "name": "Maltina",
+        "price": "5#",
+        "src": "image11.jpeg",
+        "description": ""
+      },
+      {
+        "id": "8",
+        "name": "Legend",
+        "price": "7.5#",
+        "src": "image11.jpeg",
+        "description": ""
+      },
+      {
+        "id": "9",
+        "name": "Castel Beer",
+        "price": "7.5#",
+        "src": "image11.jpeg",
+        "description": ""
+      },
+      {
+        "id": "9",
+        "name": "Turbo King",
+        "price": "7.5#",
+        "src": "image11.jpeg",
+        "description": ""
+      },
+      {
+        "id": "10",
+        "name": "Primus",
+        "price": "7.5#",
+        "src": "image11.jpeg",
+        "description": ""
+      },
+      {
+        "id": "11",
+        "name": "Skol",
+        "price": "7.5#",
+        "src": "image11.jpeg",
+        "description": ""
+      },
+      {
+        "id": "12",
+        "name": "Guinness",
+        "price": "7.5#",
+        "src": "image11.jpeg",
+        "description": ""
+      },
+      {
+        "id": "13",
+        "name": "Nkoyi",
+        "price": "7.5#",
+        "src": "image11.jpeg",
+        "description": ""
+      },
+      {
+        "id": "14",
+        "name": "Tembo",
+        "price": "7.5#",
+        "src": "image11.jpeg",
+        "description": ""
+      },
+      {
+        "id": "15",
+        "name": "Beaufort",
+        "price": "7.5#",
+        "src": "image11.jpeg",
+        "description": ""
+      },
+      {
+        "id": "16",
+        "name": "Mutzing",
+        "price": "7.5#",
+        "src": "image11.jpeg",
+        "description": ""
+      },
+      {
+        "id": "17",
+        "name": "Leffe",
+        "price": "7.5#",
+        "src": "image11.jpeg",
+        "description": ""
+      },
+      {
+        "id": "18",
+        "name": "Simba",
+        "price": "7.5#",
+        "src": "image11.jpeg",
+        "description": ""
+      },
+      {
+        "id": "19",
+        "name": "Ngok",
+        "price": "7.5#",
+        "src": "image11.jpeg",
+        "description": ""
+      },
+      {
+        "id": "20",
+        "name": "Balentines",
+        "price": "15#",
+        "src": "image11.jpeg",
+        "description": ""
+      },
+      {
+        "id": "21",
+        "name": "Seau de bière",
+        "price": "5#",
+        "src": "image11.jpeg",
+        "description": ""
+      },
+      {
+        "id": "22",
+        "name": "Heinken (Canette)",
+        "price": "7.5#",
+        "src": "image11.jpeg",
+        "description": ""
+      },
+      {
+        "id": "23",
+        "name": "Bavaria",
+        "price": "7.5#",
+        "src": "image11.jpeg",
+        "description": ""
+      },
+      {
+        "id": "24",
+        "name": "Redbull",
+        "price": "7.5#",
+        "src": "image11.jpeg",
+        "description": ""
+      },
+      {
+        "id": "24",
+        "name": "Ceres",
+        "price": "10#",
+        "src": "image11.jpeg",
+        "description": ""
+      },
+      {
+        "id": "25",
+        "name": "Red Label",
+        "price": "100#",
+        "src": "image11.jpeg",
+        "description": ""
+      },
+      {
+        "id": "26",
+        "name": "J&B",
+        "price": "100#",
+        "src": "image11.jpeg",
+        "description": ""
+      },
+      {
+        "id": "27",
+        "name": "Sir Edward's",
+        "price": "100#",
+        "src": "image11.jpeg",
+        "description": ""
+      },
+      {
+        "id": "28",
+        "name": "Grant's",
+        "price": "80#",
+        "src": "image11.jpeg",
+        "description": ""
+      },
+      {
+        "id": "29",
+        "name": "Jameson",
+        "price": "100#",
+        "src": "image11.jpeg",
+        "description": ""
+      },
+      {
+        "id": "30",
+        "name": "Baletines",
+        "price": "100#",
+        "src": "image11.jpeg",
+        "description": ""
+      },
+      {
+        "id": "31",
+        "name": "Jack Daniel's",
+        "price": "110#",
+        "src": "image11.jpeg",
+        "description": ""
+      },
+      {
+        "id": "32",
+        "name": "Black Label",
+        "price": "130#",
+        "src": "image11.jpeg",
+        "description": ""
+      },
+      {
+        "id": "33",
+        "name": "Double Black",
+        "price": "140#",
+        "src": "image11.jpeg",
+        "description": ""
+      },
+      {
+        "id": "34",
+        "name": "Gordon",
+        "price": "90#",
+        "src": "image11.jpeg",
+        "description": ""
+      },
+      {
+        "id": "35",
+        "name": "Vodka Absolut",
+        "price": "100#",
+        "src": "image11.jpeg",
+        "description": ""
+      },
+      {
+        "id": "36",
+        "name": "Baileys",
+        "price": "90#",
+        "src": "image11.jpeg",
+        "description": ""
+      },
+      {
+        "id": "37",
+        "name": "Amarula",
+        "price": "100#",
+        "src": "image11.jpeg",
+        "description": ""
+      },
+      {
+        "id": "38",
+        "name": "Martini Rouge",
+        "price": "100#",
+        "src": "image11.jpeg",
+        "description": ""
+      },
+      {
+        "id": "39",
+        "name": "Expresso Coffee",
+        "price": "5#",
+        "src": "image11.jpeg",
+        "description": ""
+      }
+    ]
   }
 ]

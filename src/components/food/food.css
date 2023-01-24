@@ -45,6 +45,13 @@
   font-weight: 100;
   margin-left: 25px;
 }
+#category-title-Boissons {
+  font-family: LucyTheCat;
+  font-size: 70px;
+  padding: 20px;
+  font-weight: 100;
+  margin-left: 25px;
+}
 
 .box-food {
   margin: 25px;
