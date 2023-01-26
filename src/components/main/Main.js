@@ -4,7 +4,7 @@ import Category from "../category/category";
 
 function Main() {
   return (
-    <div>
+    <div className="container-main-category">
       <div className="container-main">
         <div className="main-title">
           <span>Air Bridge</span>

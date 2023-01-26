@@ -3,7 +3,7 @@
   list-style-type: none;
   font-size: 30px;
   justify-content: space-evenly;
-  background-color: #1d1d1d;
+  /* background-color: #1d1d1d; */
   padding-top: 100px;
   flex-wrap: wrap;
   align-items: center;
@@ -14,8 +14,9 @@
 .container-category > ul > li > a {
   text-decoration: none;
   font-family: LucyTheCat;
-  border-bottom: solid 5px white;
+  border: solid 5px white;
   font-size: 30px;
   padding: 10px;
   color: white;
+  border-radius: 20px;
 }
