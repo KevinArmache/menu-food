@@ -19,14 +19,16 @@ function Food() {
               <div className="box-food">
                 {element.plats.map((element) => {
                   return (
-                    <div key={element.id} className="food">
+                    <div key={element.id} className="food wrapper six">
                       <img
                         className="src-food"
                         src={require(`../../assets/${element.src}`)}
                         alt="Burger"
                       />
                       <div className="container-description">
-                        <span className="name-food">{element.name}</span>
+                        <span className="name-food flicker">
+                          {element.name}
+                        </span>
                         <hr className="line-food" />
                         <span className="price-food">
                           Prix: {element.price}

@@ -94,3 +94,42 @@
 .description-food {
   font-size: 20px;
 }
+
+/* START - ANIMATION */
+.wrapper.six {
+  /* background-color: #222222; */
+}
+.flicker {
+  background: -webkit-gradient(
+      linear,
+      left top,
+      right top,
+      from(blue),
+      to(blue),
+      color-stop(0.8, red)
+    )
+    no-repeat;
+  background: gradient(
+      linear,
+      left top,
+      right top,
+      from(red),
+      to(blue),
+      color-stop(0.8, red)
+    )
+    no-repeat;
+  background-size: 110px 100%;
+  -webkit-background-clip: text;
+  background-clip: text;
+  animation: flick 1.5s infinite;
+}
+@keyframes flick {
+  0% {
+    background-position: top left;
+  }
+  100% {
+    background-position: top right;
+  }
+}
+
+/* END - ANIMATION */
