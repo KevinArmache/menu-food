@@ -343,9 +343,9 @@
       },
       {
         "id": "20",
-        "name": "Expresso Coffee",
-        "price": "5#",
-        "src": "expresso.png",
+        "name": "Ceres",
+        "price": "10#",
+        "src": "ceres.jpg",
         "description": ""
       },
       {
@@ -374,13 +374,6 @@
         "name": "Redbull",
         "price": "7.5#",
         "src": "redbull.png",
-        "description": ""
-      },
-      {
-        "id": "24",
-        "name": "Ceres",
-        "price": "10#",
-        "src": "ceres.jpg",
         "description": ""
       },
       {
@@ -487,6 +480,13 @@
         "price": "70#",
         "src": "69.jpg",
         "description": "Mesure : 7#"
+      },
+      {
+        "id": "40",
+        "name": "Expresso Coffee",
+        "price": "5#",
+        "src": "expresso.png",
+        "description": ""
       }
     ]
   }
