@@ -26,5 +26,13 @@
   {
     "id": "7",
     "name": "Boissons"
+  },
+  {
+    "id": "8",
+    "name": "Pâtes"
+  },
+  {
+    "id": "9",
+    "name": "Snacks"
   }
 ]

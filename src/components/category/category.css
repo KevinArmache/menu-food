@@ -14,9 +14,10 @@
 .container-category > ul > li > a {
   text-decoration: none;
   font-family: LucyTheCat;
-  border: solid 5px white;
+  border: solid 5px black;
   font-size: 30px;
   padding: 10px;
-  color: white;
+  color: black;
   border-radius: 20px;
+  background-color: #fff;
 }

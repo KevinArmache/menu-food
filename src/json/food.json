@@ -90,7 +90,7 @@
         "id": "3",
         "name": "Assiette air bridge",
         "price": "25#",
-        "src": "ab.jpg",
+        "src": "menuairbridge.jpg",
         "description": "Assortiment des differentes viande rien que pour vous amateur culinaire laissez vous surprendre par notre chef cuisinier"
       },
       {
@@ -118,6 +118,76 @@
         "name": "Tout nos accompagnements ",
         "price": "5#",
         "src": "ab.jpg",
+        "description": "pondu, haricots, légume vert, riz, fufu (semoule), chikwange, makemba, frites, pomme de terres naturel, pomme de terre Sautée "
+      },
+      {
+        "id": "2",
+        "name": "Pondu",
+        "price": "5#",
+        "src": "pondu.webp",
+        "description": "pondu, haricots, légume vert, riz, fufu (semoule), chikwange, makemba, frites, pomme de terres naturel, pomme de terre Sautée "
+      },
+      {
+        "id": "3",
+        "name": "Haricots",
+        "price": "5#",
+        "src": "Madesu.jpg",
+        "description": "pondu, haricots, légume vert, riz, fufu (semoule), chikwange, makemba, frites, pomme de terres naturel, pomme de terre Sautée "
+      },
+      {
+        "id": "4",
+        "name": "Légume vert",
+        "price": "5#",
+        "src": "legumevert.jpg",
+        "description": "pondu, haricots, légume vert, riz, fufu (semoule), chikwange, makemba, frites, pomme de terres naturel, pomme de terre Sautée "
+      },
+      {
+        "id": "5",
+        "name": "Riz",
+        "price": "5#",
+        "src": "riz.jpg",
+        "description": "pondu, haricots, légume vert, riz, fufu (semoule), chikwange, makemba, frites, pomme de terres naturel, pomme de terre Sautée "
+      },
+      {
+        "id": "6",
+        "name": "fufu (semoule)",
+        "price": "5#",
+        "src": "fufu.jpg",
+        "description": "pondu, haricots, légume vert, riz, fufu (semoule), chikwange, makemba, frites, pomme de terres naturel, pomme de terre Sautée "
+      },
+      {
+        "id": "7",
+        "name": "Chikwange",
+        "price": "5#",
+        "src": "kwanga.jpg",
+        "description": "pondu, haricots, légume vert, riz, fufu (semoule), chikwange, makemba, frites, pomme de terres naturel, pomme de terre Sautée "
+      },
+      {
+        "id": "8",
+        "name": "Makemba",
+        "price": "5#",
+        "src": "makemba.webp",
+        "description": "pondu, haricots, légume vert, riz, fufu (semoule), chikwange, makemba, frites, pomme de terres naturel, pomme de terre Sautée "
+      },
+      {
+        "id": "9",
+        "name": "Frites",
+        "price": "5#",
+        "src": "frites.jpg",
+        "description": "pondu, haricots, légume vert, riz, fufu (semoule), chikwange, makemba, frites, pomme de terres naturel, pomme de terre Sautée "
+      },
+      {
+        "id": "10",
+        "name": "pomme de terres naturel",
+        "price": "5#",
+        "src": "pomme1.jpg",
+        "description": "pondu, haricots, légume vert, riz, fufu (semoule), chikwange, makemba, frites, pomme de terres naturel, pomme de terre Sautée "
+      },
+      {
+        "id": "10",
+        "name": "pomme de terres sautée",
+        "price": "5#",
+        "src": "pomme2.webp",
         "description": "pondu, haricots, légume vert, riz, fufu (semoule), chikwange, makemba, frites, pomme de terres naturel, pomme de terre Sautée "
       }
     ]
@@ -156,21 +226,21 @@
       {
         "id": "1",
         "name": "Avocat au thon",
-        "price": "5#",
+        "price": "10#",
         "src": "avocatthon.jpg",
         "description": "Emblematique morceau des thons, hyper savoureuse composé de mayonnaise, oignon, cornichons, persil, sel, poivre"
       },
       {
         "id": "2",
         "name": "Oeuf à la macédoine au légumes",
-        "price": "5#",
+        "price": "10#",
         "src": "oeufmace.jpg",
         "description": "Macedoine des légumes aux oeuf dur, avec la myonnaise, oignons, persil, sel, poivre"
       },
       {
         "id": "3",
         "name": "Tomate farcie au crevettes",
-        "price": "13#",
+        "price": "12#",
         "src": "tomatefarcie.jpg",
         "description": "Des crevettes decortiquer facon farcie aux tomates simple mais gouteuses à la sauce cocktail"
       },
@@ -203,7 +273,7 @@
     "plats": [
       {
         "id": "1",
-        "name": "Eau",
+        "name": "Bouteille d'eau vive",
         "price": "3#",
         "src": "eau.jpg",
         "description": ""
@@ -288,7 +358,7 @@
       {
         "id": "12",
         "name": "Guinness",
-        "price": "7.5#",
+        "price": "10#",
         "src": "guiness.jpg",
         "description": ""
       },
@@ -330,14 +400,14 @@
       {
         "id": "18",
         "name": "Simba",
-        "price": "7.5#",
+        "price": "10#",
         "src": "simba.png",
         "description": ""
       },
       {
         "id": "19",
         "name": "Ngok",
-        "price": "7.5#",
+        "price": "10#",
         "src": "ngok.jpg",
         "description": ""
       },
@@ -349,16 +419,23 @@
         "description": ""
       },
       {
+        "id": "47",
+        "name": "Heineken importé",
+        "price": "10#",
+        "src": "heinekenimp.jpg",
+        "description": ""
+      },
+      {
         "id": "21",
         "name": "Seau de bière",
-        "price": "5#",
+        "price": "50#",
         "src": "seau.webp",
         "description": ""
       },
       {
         "id": "22",
         "name": "Heineken (Canette)",
-        "price": "7.5#",
+        "price": "10#",
         "src": "heinekencanette.jpg",
         "description": ""
       },
@@ -381,49 +458,49 @@
         "name": "Red Label",
         "price": "100#",
         "src": "redlabel.webp",
-        "description": "Mesure : 7#"
+        "description": "Mesure : 10#"
       },
       {
         "id": "26",
         "name": "J&B",
         "price": "100#",
         "src": "jb.webp",
-        "description": "Mesure : 7#"
+        "description": "Mesure : 10#"
       },
       {
         "id": "27",
         "name": "Sir Edward's",
         "price": "100#",
         "src": "se.png",
-        "description": "Mesure : 7#"
+        "description": "Mesure : 10#"
       },
       {
         "id": "28",
         "name": "Grant's",
         "price": "80#",
         "src": "grant.jpg",
-        "description": "Mesure : 5#"
+        "description": "Mesure : 10#"
       },
       {
         "id": "29",
         "name": "Jameson",
         "price": "100#",
         "src": "jameson.jpg",
-        "description": "Mesure : 7#"
+        "description": "Mesure : 10#"
       },
       {
         "id": "30",
         "name": "Ballantine's",
         "price": "100#",
         "src": "Ballantines.webp",
-        "description": "Mesure : 7#"
+        "description": "Mesure : 10#"
       },
       {
         "id": "31",
         "name": "Jack Daniel's",
         "price": "110#",
         "src": "jack.webp",
-        "description": "Mesure : 8#"
+        "description": "Mesure : 10#"
       },
       {
         "id": "32",
@@ -437,56 +514,146 @@
         "name": "Double Black",
         "price": "140#",
         "src": "double.jpg",
-        "description": "Mesure : 12#"
+        "description": "Mesure : 10#"
       },
       {
         "id": "34",
         "name": "Gordon",
         "price": "90#",
         "src": "gordon.webp",
-        "description": "Mesure : 7#"
+        "description": "Mesure : 10#"
       },
       {
         "id": "35",
         "name": "Vodka Absolut",
         "price": "100#",
         "src": "abso.jpg",
-        "description": "Mesure : 7#"
+        "description": "Mesure : 10#"
       },
       {
         "id": "36",
         "name": "Baileys",
         "price": "90#",
         "src": "baileys.png",
-        "description": "Mesure : 6#"
+        "description": "Mesure : 10#"
       },
       {
         "id": "37",
         "name": "Amarula",
         "price": "100#",
         "src": "amarula.webp",
-        "description": "Mesure : 7#"
+        "description": "Mesure : 10#"
       },
       {
         "id": "38",
         "name": "Martini Rouge",
         "price": "100#",
         "src": "martini.jpg",
-        "description": "Mesure : 7#"
+        "description": "Mesure : 10#"
       },
       {
         "id": "39",
         "name": "Vat 69",
         "price": "70#",
         "src": "69.jpg",
-        "description": "Mesure : 7#"
+        "description": "Mesure : 10#"
       },
       {
         "id": "40",
         "name": "Expresso Coffee",
         "price": "5#",
-        "src": "expresso.png",
+        "src": "expresso.webp",
         "description": ""
+      },
+      {
+        "id": "41",
+        "name": "Bière à pression",
+        "price": "10#",
+        "src": "BierePression.webp",
+        "description": ""
+      },
+      {
+        "id": "42",
+        "name": "Chocolat Chaud",
+        "price": "5#",
+        "src": "chocolatchaud.jpg",
+        "description": ""
+      },
+      {
+        "id": "43",
+        "name": "Thé vert",
+        "price": "10#",
+        "src": "thevert.jpg",
+        "description": ""
+      },
+      {
+        "id": "44",
+        "name": "Santiago",
+        "price": "40#",
+        "src": "santiago.webp",
+        "description": ""
+      },
+
+      {
+        "id": "45",
+        "name": "JC le roux blanc",
+        "price": "50#",
+        "src": "JC1.jpg",
+        "description": ""
+      },
+      {
+        "id": "46",
+        "name": "JC le roux rouge",
+        "price": "50#",
+        "src": "JC2.jpeg",
+        "description": ""
+      },
+      {
+        "id": "48",
+        "name": "Ruinart",
+        "price": "400#",
+        "src": "ruinart.webp",
+        "description": ""
+      }
+    ]
+  },
+  {
+    "id": "7",
+    "category": "Pâtes",
+    "plats": [
+      {
+        "id": "1",
+        "name": "Spaghetti Bolognaise",
+        "price": "15#",
+        "src": "spaga1.jpg",
+        "description": "Viande de boeuf haché puis melangé, oignons, carottes, ails,  herbes de provence, huile d'olives, beurre, sauce puremment italienne "
+      },
+      {
+        "id": "2",
+        "name": "Spaghetti à la crème & cossa",
+        "price": "15#",
+        "src": "spaga2.jpg",
+        "description": "crème culinaire, beurre, oignon, ail, cossa décortiqué, fromage, persil, parmesan rapé, bouillon des crustacés des fruits"
+      }
+    ]
+  },
+  {
+    "id": "8",
+    "category": "Snacks",
+    "plats": [
+      {
+        "id": "1",
+        "name": "Spaghetti Bolognaise",
+        "price": "15#",
+        "src": "spaga1.jpg",
+        "description": "Viande de boeuf haché puis melangé, oignons, carottes, ails,  herbes de provence, huile d'olives, beurre, sauce puremment italienne "
+      },
+      {
+        "id": "2",
+        "name": "Spaghetti à la crème & cossa",
+        "price": "15#",
+        "src": "spaga2.jpg",
+        "description": "crème culinaire, beurre, oignon, ail, cossa décortiqué, fromage, persil, parmesan rapé, bouillon des crustacés des fruits"
       }
     ]
   }

@@ -52,6 +52,20 @@
   font-weight: 100;
   margin-left: 25px;
 }
+#category-title-Pâtes {
+  font-family: LucyTheCat;
+  font-size: 70px;
+  padding: 20px;
+  font-weight: 100;
+  margin-left: 25px;
+}
+#category-title-Snacks {
+  font-family: LucyTheCat;
+  font-size: 70px;
+  padding: 20px;
+  font-weight: 100;
+  margin-left: 25px;
+}
 
 .box-food {
   margin: 25px;
@@ -78,13 +92,14 @@
 }
 .container-description {
   padding: 25px;
-
+  background-color: #fff;
   border-radius: 20px;
   border: solid 5px #1d1d1d;
 }
 .name-food {
   font-size: 30px;
   font-weight: 100;
+  color: black;
 }
 .line-food {
   margin-bottom: 10px;
@@ -92,6 +107,8 @@
 
 .price-food,
 .description-food {
+  color: black;
+
   font-size: 20px;
 }
 

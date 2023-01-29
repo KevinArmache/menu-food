@@ -3,14 +3,14 @@
   padding: 0;
   box-sizing: border-box;
 }
-.container-main-category {
+/* .container-main-category {
   background: rgb(245, 6, 1);
   background: linear-gradient(
     207deg,
     rgba(245, 6, 1, 1) 0%,
     rgba(1, 1, 141, 1) 70%
   );
-}
+} */
 .container-main {
   /* background: rgb(1, 1, 141);
   background: linear-gradient(

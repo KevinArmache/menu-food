@@ -10,3 +10,17 @@
 hr {
   background-color: red;
 }
+body {
+  background: rgb(245, 6, 1);
+  background: linear-gradient(
+    207deg,
+    rgba(245, 6, 1, 1) 0%,
+    rgba(1, 1, 141, 1) 70%
+  );
+}
+
+p,
+span,
+h3 {
+  color: white;
+}
