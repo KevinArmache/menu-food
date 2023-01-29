@@ -653,50 +653,65 @@
         "id": "1",
         "name": "Ailes de dinde grillé",
         "price": "10#",
-        "src": "spaga1.jpg",
+        "src": "ailesdinde.jpg",
         "description": "Des ailes de dinde grillé, sauce barbecue"
       },
       {
         "id": "2",
         "name": "Ailes de poulet grillé",
         "price": "5#",
-        "src": "spaga2.jpg",
+        "src": "Ailesdepouletgrillé.jpg",
         "description": "Servi en brochette, sauce barbecue"
       },
       {
         "id": "3",
         "name": "Gésier sauté au légumes",
         "price": "5#",
-        "src": "spaga2.jpg",
+        "src": "Gésiersautéaulégumes.jpg",
         "description": "Degustez nos gésiers au leégume un vrai régal"
       },
       {
         "id": "4",
         "name": "Hamburger simple",
         "price": "7#",
-        "src": "spaga2.jpg",
+        "src": "Hamburgersimple.jpeg",
         "description": "Pains hamburger, viande haché, tomate fraiche, oignons, salade verte, sauce"
       },
       {
         "id": "5",
         "name": "Hamburger royal",
         "price": "12#",
-        "src": "spaga2.jpg",
+        "src": "Hamburgerroyal.jpeg",
         "description": "Sauce, big-mac, pains hamburger, bacon, cheddar, tranche d'avocat"
       },
+
       {
         "id": "6",
         "name": "Hamburger Air Bridge",
         "price": "15#",
-        "src": "spaga2.jpg",
+        "src": "ab.jpg",
         "description": "Poivre-vert, pains hamburger, viande haché, tomate fraiche, oignons, bacon, cheddar, salade, frites"
       },
       {
         "id": "7",
-        "name": "Hamburger Air Bridge",
-        "price": "15#",
-        "src": "spaga2.jpg",
-        "description": "Poivre-vert, pains hamburger, viande haché, tomate fraiche, oignons, bacon, cheddar, salade, frites"
+        "name": "Sandwich Mixte",
+        "price": "7#",
+        "src": "sandwich-mixte.jpg",
+        "description": "Jambon, fromage, tomate, fraiche, oignons"
+      },
+      {
+        "id": "8",
+        "name": "Sandwich Air Bridge",
+        "price": "12#",
+        "src": "ab.jpg",
+        "description": "Emence de viande, frites, salade tomate, sauce cocktail, oignons"
+      },
+      {
+        "id": "9",
+        "name": "Chawarma (Viande - Poulet - Porc)",
+        "price": "7#",
+        "src": "chawarma.webp",
+        "description": "Emence au  choix de poulet de viande ou de porc, choux blanc, frites, mayonnaise, ketchup avec ou sans piment"
       }
     ]
   },
