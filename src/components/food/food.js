@@ -12,7 +12,10 @@ function Food() {
           // }
           return (
             <div key={element.id} className="container-category">
-              <h3 id={`category-title-` + element.category}>
+              <h3
+                className={`category-title-` + element.style}
+                id={`category-id-` + element.id}
+              >
                 {element.category}
               </h3>
               <hr />

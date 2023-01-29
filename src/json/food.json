@@ -2,6 +2,7 @@
   {
     "id": "1",
     "category": "Plat-Congolais",
+    "style": "css",
     "plats": [
       {
         "id": "1",
@@ -44,6 +45,7 @@
   {
     "id": "2",
     "category": "Volailles",
+    "style": "css",
     "plats": [
       {
         "id": "1",
@@ -71,6 +73,7 @@
   {
     "id": "3",
     "category": "Viandes",
+    "style": "css",
     "plats": [
       {
         "id": "1",
@@ -112,6 +115,7 @@
   {
     "id": "4",
     "category": "Accompagnement",
+    "style": "css",
     "plats": [
       {
         "id": "1",
@@ -195,6 +199,7 @@
   {
     "id": "5",
     "category": "Fruit-de-mer",
+    "style": "css",
     "plats": [
       {
         "id": "1",
@@ -270,6 +275,7 @@
   {
     "id": "7",
     "category": "Boissons",
+    "style": "css",
     "plats": [
       {
         "id": "1",
@@ -618,8 +624,9 @@
     ]
   },
   {
-    "id": "7",
+    "id": "8",
     "category": "Pâtes",
+    "style": "css",
     "plats": [
       {
         "id": "1",
@@ -638,22 +645,86 @@
     ]
   },
   {
-    "id": "8",
+    "id": "9",
     "category": "Snacks",
+    "style": "css",
     "plats": [
       {
         "id": "1",
-        "name": "Spaghetti Bolognaise",
-        "price": "15#",
+        "name": "Ailes de dinde grillé",
+        "price": "10#",
         "src": "spaga1.jpg",
-        "description": "Viande de boeuf haché puis melangé, oignons, carottes, ails,  herbes de provence, huile d'olives, beurre, sauce puremment italienne "
+        "description": "Des ailes de dinde grillé, sauce barbecue"
       },
       {
         "id": "2",
-        "name": "Spaghetti à la crème & cossa",
+        "name": "Ailes de poulet grillé",
+        "price": "5#",
+        "src": "spaga2.jpg",
+        "description": "Servi en brochette, sauce barbecue"
+      },
+      {
+        "id": "3",
+        "name": "Gésier sauté au légumes",
+        "price": "5#",
+        "src": "spaga2.jpg",
+        "description": "Degustez nos gésiers au leégume un vrai régal"
+      },
+      {
+        "id": "4",
+        "name": "Hamburger simple",
+        "price": "7#",
+        "src": "spaga2.jpg",
+        "description": "Pains hamburger, viande haché, tomate fraiche, oignons, salade verte, sauce"
+      },
+      {
+        "id": "5",
+        "name": "Hamburger royal",
+        "price": "12#",
+        "src": "spaga2.jpg",
+        "description": "Sauce, big-mac, pains hamburger, bacon, cheddar, tranche d'avocat"
+      },
+      {
+        "id": "6",
+        "name": "Hamburger Air Bridge",
         "price": "15#",
         "src": "spaga2.jpg",
-        "description": "crème culinaire, beurre, oignon, ail, cossa décortiqué, fromage, persil, parmesan rapé, bouillon des crustacés des fruits"
+        "description": "Poivre-vert, pains hamburger, viande haché, tomate fraiche, oignons, bacon, cheddar, salade, frites"
+      },
+      {
+        "id": "7",
+        "name": "Hamburger Air Bridge",
+        "price": "15#",
+        "src": "spaga2.jpg",
+        "description": "Poivre-vert, pains hamburger, viande haché, tomate fraiche, oignons, bacon, cheddar, salade, frites"
+      }
+    ]
+  },
+  {
+    "id": "10",
+    "category": "Pétit déjeuner",
+    "style": "css",
+    "plats": [
+      {
+        "id": "1",
+        "name": "Déjeuner simple",
+        "price": "5#",
+        "src": "petitdej1.jpg",
+        "description": "Pain, pain au chocolat, au raisin, croissant 2 oeufs, au plat, ou  omelettes"
+      },
+      {
+        "id": "2",
+        "name": "Déjeuner complet",
+        "price": "10#",
+        "src": "petitdej2.jpg",
+        "description": "2 Pains au lait, au chocolat, au raisin, croissant 2 oeufs au plat, ou omelettes, verre de jus, salade des fruits"
+      },
+      {
+        "id": "3",
+        "name": "Déjeuner continental",
+        "price": "15#",
+        "src": "petitdej3.webp",
+        "description": "Céreales, 2 pains au toast, 2 oeufs sur plat, 1 verre de jus, 2 saucisses, 2 tranches de lard fumées"
       }
     ]
   }

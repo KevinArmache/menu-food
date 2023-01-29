@@ -2,64 +2,8 @@
   /* border: solid 2px blue; */
   margin: 50px;
 }
-#category-title-Plat-Congolais {
-  font-family: LucyTheCat;
-  font-size: 70px;
-  padding: 20px;
-  font-weight: 100;
-  margin-left: 25px;
-}
 
-#category-title-Volailles {
-  font-family: LucyTheCat;
-  font-size: 70px;
-  padding: 20px;
-  font-weight: 100;
-  margin-left: 25px;
-}
-#category-title-Viandes {
-  font-family: LucyTheCat;
-  font-size: 70px;
-  padding: 20px;
-  font-weight: 100;
-  margin-left: 25px;
-}
-#category-title-Accompagnement {
-  font-family: LucyTheCat;
-  font-size: 70px;
-  padding: 20px;
-  font-weight: 100;
-  margin-left: 25px;
-}
-#category-title-Fruit-de-mer {
-  font-family: LucyTheCat;
-  font-size: 70px;
-  padding: 20px;
-  font-weight: 100;
-  margin-left: 25px;
-}
-#category-title-Entrés {
-  font-family: LucyTheCat;
-  font-size: 70px;
-  padding: 20px;
-  font-weight: 100;
-  margin-left: 25px;
-}
-#category-title-Boissons {
-  font-family: LucyTheCat;
-  font-size: 70px;
-  padding: 20px;
-  font-weight: 100;
-  margin-left: 25px;
-}
-#category-title-Pâtes {
-  font-family: LucyTheCat;
-  font-size: 70px;
-  padding: 20px;
-  font-weight: 100;
-  margin-left: 25px;
-}
-#category-title-Snacks {
+.category-title-css {
   font-family: LucyTheCat;
   font-size: 70px;
   padding: 20px;
