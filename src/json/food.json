@@ -295,7 +295,7 @@
         "id": "3",
         "name": "Fanta",
         "price": "5#",
-        "src": "fanta.jpg",
+        "src": "fanta.png",
         "description": ""
       },
       {
@@ -519,7 +519,7 @@
         "id": "33",
         "name": "Double Black",
         "price": "140#",
-        "src": "double.jpg",
+        "src": "double.png",
         "description": "Mesure : 10#"
       },
       {
