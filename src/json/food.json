@@ -279,7 +279,7 @@
     "plats": [
       {
         "id": "1",
-        "name": "Bouteille d'eau vive",
+        "name": "Eau vive",
         "price": "3#",
         "src": "eau.jpg",
         "description": ""
@@ -288,7 +288,7 @@
         "id": "2",
         "name": "Coca Cola",
         "price": "5#",
-        "src": "cocacola.jpg",
+        "src": "cocacola.png",
         "description": ""
       },
       {
@@ -337,7 +337,7 @@
         "id": "9",
         "name": "Castel Beer",
         "price": "7.5#",
-        "src": "castel.jpg",
+        "src": "castel.png",
         "description": ""
       },
       {
@@ -386,7 +386,7 @@
         "id": "15",
         "name": "Beaufort",
         "price": "7.5#",
-        "src": "beaufort.jpg",
+        "src": "beaufort.png",
         "description": ""
       },
       {
@@ -421,7 +421,7 @@
         "id": "20",
         "name": "Ceres",
         "price": "10#",
-        "src": "ceres.jpg",
+        "src": "ceres.png",
         "description": ""
       },
       {
@@ -449,7 +449,7 @@
         "id": "23",
         "name": "Bavaria",
         "price": "7.5#",
-        "src": "bavaria.jpg",
+        "src": "bavaria.png",
         "description": ""
       },
       {
@@ -533,7 +533,7 @@
         "id": "35",
         "name": "Vodka Absolut",
         "price": "100#",
-        "src": "abso.jpg",
+        "src": "abso.png",
         "description": "Mesure : 10#"
       },
       {
@@ -561,7 +561,7 @@
         "id": "39",
         "name": "Vat 69",
         "price": "70#",
-        "src": "69.jpg",
+        "src": "69.png",
         "description": "Mesure : 10#"
       },
       {
