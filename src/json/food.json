@@ -302,21 +302,21 @@
         "id": "4",
         "name": "Tonic",
         "price": "5#",
-        "src": "tonic.jpg",
+        "src": "tonic.png",
         "description": ""
       },
       {
         "id": "5",
         "name": "Soda",
         "price": "5#",
-        "src": "soda.jpg",
+        "src": "soda.png",
         "description": ""
       },
       {
         "id": "6",
         "name": "Vitalo",
         "price": "5#",
-        "src": "vitalo.jpeg",
+        "src": "vitalo.png",
         "description": ""
       },
       {
@@ -400,7 +400,7 @@
         "id": "17",
         "name": "Leffe",
         "price": "7.5#",
-        "src": "Leffe.webp",
+        "src": "leffe.png",
         "description": ""
       },
       {
@@ -435,7 +435,7 @@
         "id": "21",
         "name": "Seau de bière",
         "price": "50#",
-        "src": "seau.webp",
+        "src": "seau.png",
         "description": ""
       },
       {
@@ -463,14 +463,14 @@
         "id": "25",
         "name": "Red Label",
         "price": "100#",
-        "src": "redlabel.webp",
+        "src": "redlabel.png",
         "description": "Mesure : 10#"
       },
       {
         "id": "26",
         "name": "J&B",
         "price": "100#",
-        "src": "jb.webp",
+        "src": "jb.png",
         "description": "Mesure : 10#"
       },
       {
@@ -498,14 +498,14 @@
         "id": "30",
         "name": "Ballantine's",
         "price": "100#",
-        "src": "Ballantines.webp",
+        "src": "Ballantines.png",
         "description": "Mesure : 10#"
       },
       {
         "id": "31",
         "name": "Jack Daniel's",
         "price": "110#",
-        "src": "jack.webp",
+        "src": "jack.png",
         "description": "Mesure : 10#"
       },
       {
@@ -547,7 +547,7 @@
         "id": "37",
         "name": "Amarula",
         "price": "100#",
-        "src": "amarula.webp",
+        "src": "amarula.png",
         "description": "Mesure : 10#"
       },
       {
@@ -568,35 +568,35 @@
         "id": "40",
         "name": "Expresso Coffee",
         "price": "5#",
-        "src": "expresso.webp",
+        "src": "expressomachine.png",
         "description": ""
       },
       {
         "id": "41",
         "name": "Bière à pression",
         "price": "10#",
-        "src": "BierePression.webp",
+        "src": "BierePression.png",
         "description": ""
       },
       {
         "id": "42",
         "name": "Chocolat Chaud",
         "price": "5#",
-        "src": "chocolatchaud.jpg",
+        "src": "chocolatchaud.png",
         "description": ""
       },
       {
         "id": "43",
         "name": "Thé vert",
         "price": "5#",
-        "src": "thevert.jpg",
+        "src": "thevert.png",
         "description": ""
       },
       {
         "id": "44",
         "name": "Santiago",
         "price": "40#",
-        "src": "santiago.webp",
+        "src": "santiago.png",
         "description": ""
       },
 
@@ -618,7 +618,7 @@
         "id": "48",
         "name": "Ruinart",
         "price": "400#",
-        "src": "ruinart.webp",
+        "src": "ruinart.png",
         "description": ""
       }
     ]
@@ -689,7 +689,7 @@
         "id": "6",
         "name": "Hamburger Air Bridge",
         "price": "15#",
-        "src": "ab.jpg",
+        "src": "doubleburger.webp",
         "description": "Poivre-vert, pains hamburger, viande haché, tomate fraiche, oignons, bacon, cheddar, salade, frites"
       },
       {
@@ -703,7 +703,7 @@
         "id": "8",
         "name": "Sandwich Air Bridge",
         "price": "12#",
-        "src": "ab.jpg",
+        "src": "sandair.jpg",
         "description": "Emence de viande, frites, salade tomate, sauce cocktail, oignons"
       },
       {
