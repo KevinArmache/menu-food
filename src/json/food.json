@@ -281,7 +281,7 @@
         "id": "1",
         "name": "Eau vive",
         "price": "3#",
-        "src": "eau.jpg",
+        "src": "eau.png",
         "description": ""
       },
       {
@@ -588,7 +588,7 @@
       {
         "id": "43",
         "name": "Thé vert",
-        "price": "10#",
+        "price": "5#",
         "src": "thevert.jpg",
         "description": ""
       },
